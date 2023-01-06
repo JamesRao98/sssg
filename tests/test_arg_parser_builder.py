@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from src.sssg_James_Rao.argument_parser_builder import ArgumentParserBuilder
+from src.sssg.argument_parser_builder import ArgumentParserBuilder
 
 class TestArgumentParserBuilder(TestCase):
     def test_add_arguments(self):

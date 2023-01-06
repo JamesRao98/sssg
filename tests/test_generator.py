@@ -4,8 +4,8 @@ from random import randint
 from os import path
 from shutil import rmtree
 
-from src.sssg_James_Rao.generator import Generator
-from src.sssg_James_Rao.schemas import Page
+from src.sssg.generator import Generator
+from src.sssg.schemas import Page
 
 
 class TestGenerator(TestCase):
