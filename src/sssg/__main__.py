@@ -1,5 +1,5 @@
-from argument_parser_builder import ArgumentParserBuilder 
-from generator import Generator 
+from .argument_parser_builder import ArgumentParserBuilder 
+from .generator import Generator 
 
 
 if __name__ == '__main__':
