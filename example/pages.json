@@ -1,0 +1,16 @@
+[
+    {
+        "template": "./home.html",
+        "target": "./index.html",
+        "content": {
+            "title": "./title.txt"
+        }
+    },
+    {
+        "template": "./home.html",
+        "target": "./page2.html",
+        "content": {
+            "title": "./title.txt"
+        }
+    }
+]
